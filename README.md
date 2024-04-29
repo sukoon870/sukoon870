@@ -1,3 +1,3 @@
-alt acc
+# Account for clg stuff
 
-main: https://github.com/mienaiyami/
+## Main profile : https://github.com/mienaiyami/
